@@ -1,0 +1,27 @@
+.extraNote{
+    background-color: blue;
+    color: white;
+    width: fit-content;
+}
+h1{color:green;}
+div{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+}
+
+#container{
+    border: thick double black;
+    height: 100px;
+    width: 500px;
+    background-color: blue;
+}
+
+#move{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 25%;
+    transform: translate(5,5);
+}
